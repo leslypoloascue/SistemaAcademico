@@ -1,0 +1,6 @@
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Lesly\source\repos\SistemeAcademico\CapaDato\obj\Debug\CapaDato.pdb
